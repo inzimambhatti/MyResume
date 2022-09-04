@@ -1,4 +1,4 @@
-# MyResume
+# My Cirtificates
 
  # BS(Computer Science)
 ![BSCS COMSATS](https://user-images.githubusercontent.com/54174389/188309513-9d21fe9b-31c9-420d-93e1-436a33f7689a.jpg)
